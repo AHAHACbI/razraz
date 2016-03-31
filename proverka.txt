@@ -1,3 +1,3 @@
 <script>
-alert ("PROVERKA #2")
+alert ("PROVERKA #23")
 </script>
